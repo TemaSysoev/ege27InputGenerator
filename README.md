@@ -1,5 +1,6 @@
 # ege27InputGenerator
 Создает входные данные для 27 задачи ЕГЭ по информатике
+![ScreenShot](https://github.com/TemaSysoev/ege27InputGenerator/blob/master/Support%20files/screenshot.png)
 ## Установка
 Чтобы использовать модуль нужно скопировать файл input27gen.py в папку с проектом и импортировать его в проект
 
