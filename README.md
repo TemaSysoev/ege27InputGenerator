@@ -28,7 +28,7 @@ custom_normal_string(minLength = 5, maxLength=10, minValue=0, maxValue=100, divi
 custom_sorted_string(minLength = 5, maxLength=10, minValue=0, maxValue=100, divider=1) #сортированный (min-max)
 custom_sorted_reversed_string(minLength = 5, maxLength=10, minValue=0, maxValue=100, divider=1) #сортированный (max-min)
 ```
-## Взодные данные
+## Входные данные
 ```python
 length = 5 #Длина набора
 
