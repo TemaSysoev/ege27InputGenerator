@@ -1,12 +1,12 @@
 # ege27InputGenerator
 Создает входные данные для 27 задачи ЕГЭ по информатике
-##Установка
+## Установка
 Чтобы использовать модуль нужно скопировать файл generator.py в папку с проектом и импортировать его в проект
 
 ```python
 import generator
 ```
-##Использование
+## Использование
 Модуль позволяет создавать разные наборы данных:
 1) Случайный array
 ```python
@@ -28,7 +28,7 @@ custom_normal_string(minLength = 5, maxLength=10, minValue=0, maxValue=100, divi
 custom_sorted_string(minLength = 5, maxLength=10, minValue=0, maxValue=100, divider=1) #сортированный (min-max)
 custom_sorted_reversed_string(minLength = 5, maxLength=10, minValue=0, maxValue=100, divider=1) #сортированный (max-min)
 ```
-##Взодные данные
+## Взодные данные
 ```python
 length = 5 #Длина набора
 
